@@ -1,0 +1,34 @@
+{
+  "appName": "А-МЕДИА",
+  "@appName": {
+    "description": "Dasturning nomi"
+  },
+  "yangiliklar": "Новости",
+  "@yangliliklar": {
+    "description": "Новости"
+  },
+  "videolar": "Видео",
+  "@videolar": {
+    "description": "видео"
+  },
+  "filmXaqida": "О фильме",
+  "@filmXaqida": {
+    "description": "о фильме"
+  },
+  "ongoing": "Непрерывный",
+  "@ongoing": {
+    "description": "ongoing"
+  },
+  "hammaAnimelar": "Все аниме",
+  "@hammaAnimelar": {
+    "description": "animelar"
+  },
+  "animeFilmlar": "Аниме фильмы",
+  "@animeFilmlar": {
+    "description": "anime filmlar"
+  },
+  "kuproq": "Более",
+  "@kuproq": {
+    "description": "Ko`proq"
+  }
+}

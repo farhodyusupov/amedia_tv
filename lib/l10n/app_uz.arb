@@ -1,0 +1,34 @@
+{
+  "appName": "A-MEDIA",
+  "@appName": {
+    "description": "Dasturning nomi"
+  },
+  "yangiliklar": "Yangiliklar",
+  "@yangiliklar": {
+    "description": "Yangiliklar"
+  },
+  "videolar": "Videolar",
+  "@videolar": {
+    "description": "videolar"
+  },
+  "filmXaqida": "Film xaqida",
+  "@filmXaqida": {
+    "description": "film xaqida"
+  },
+  "ongoing": "Ongoing",
+  "@ongoing": {
+    "description": "Davom etayotgan"
+  },
+  "hammaAnimelar": "Hamma animelar",
+  "@hammaAnimelar": {
+    "description": "Hamma animelar"
+  },
+  "animeFilmlar": "Anime filmlar",
+  "@animeFilmlar": {
+    "description": "Anime filmlar"
+  },
+  "kuproq": "Ko`proq",
+  "@kuproq": {
+    "description": "Ko`proq"
+  }
+}
